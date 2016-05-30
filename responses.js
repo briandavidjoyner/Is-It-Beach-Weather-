@@ -6,7 +6,6 @@ function is_it_beach_weather(callback){
 		text = '',
 		callback = callback,
 		background_image = '';
-		alert(city);
 			
 	// Temperature 80
 	if ( current_temp > 75 ){
